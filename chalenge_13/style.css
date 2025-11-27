@@ -1,0 +1,14 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+ul li{
+    width: 50%;
+    height: 25px;
+    background-color: rgb(85, 85, 187);
+    color: white;
+    padding: 2px;
+    border-radius: 5px 5px;
+
+}

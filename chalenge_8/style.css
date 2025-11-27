@@ -1,0 +1,20 @@
+div{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(157, 171, 228);
+    border-radius: 5px;
+    margin-top: 5px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.toggle{
+    background-color: blue;
+    
+    width: 80px;
+    height: 75px;
+}

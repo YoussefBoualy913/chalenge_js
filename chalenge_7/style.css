@@ -1,0 +1,24 @@
+ul li{
+    list-style: none;
+    height: 20px;
+    padding: 5px;
+    width: 70%;
+    color: white;
+    border-radius: 5px;
+}
+ul li:hover{
+    background-color: rgba(240, 248, 255, 0.219);
+}
+body{
+    height: 100vh;
+    background-color: rgb(58, 0, 111);
+}
+.sellected{
+   background-color: rgba(119, 202, 247, 0.61);
+   border: 2px solid rgba(49, 178, 248, 0.61);
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
