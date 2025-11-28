@@ -1,0 +1,6 @@
+#firstul{
+    list-style: none;
+}
+#firstul :nth-child(3){
+     color: rgb(0, 183, 255);
+}
